@@ -18,9 +18,11 @@ console.log(Thierry Severo);
 
 ### About me:
 <p>
-    Front-end programmer and developer, certified by the TRANS.FORM specialization program offered by Porto Digital. Student of bachelor's degree in psychology (UNISÃOMIGUEL) and Technologist in systems analysis and development (UNINABUCO). Professional musician, guitarist, multi-instrumentalist.
+   Programmer and front-end developer, certified by DIO.ME. Student of the Technologist in Systems Analysis and Development course (UNICSUL).
+   </p>
+
 <p>
-    Always involved with technology and music, I take these resources to professional life in forms of expression. I have ease to work with groups, good relationship with people, responsibility and spirit of leadership. I have a passion for psychology and new experiences in communication education and photography.
+Always involved with technology and games, I take these resources to my professional life in forms of expression. I find it easy to work with groups, good relationship with people, responsibility and initiative. I have a passion for new experiences in challenging projects, innovative forms of education and new technologies.</p>
 
 ### Main skills:
 
