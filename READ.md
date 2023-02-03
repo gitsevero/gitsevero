@@ -12,7 +12,9 @@ let Thierry Severo= new dev('Thierry Severo', 23, 'Front-end developer ');
 console.log(Thierry Severo);
 ```
 
-![portfólio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)&nbsp;
+<a  href="https://www.severodev.com/">WWW.SEVERODEV.COM<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+
+
 
 ### About me:
 <p>
