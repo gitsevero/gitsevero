@@ -12,7 +12,7 @@ let Thierry Severo= new dev('Thierry Severo', 23, 'Front-end developer ');
 console.log(Thierry Severo);
 ```
 
-<a  href="https://www.severodev.com/">WWW.SEVERODEV.COM<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+<a  href="https://www.severodev.com/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 
 
 
@@ -36,7 +36,7 @@ console.log(Thierry Severo);
 ![GitHub](https://img.shields.io/badge/-GitHub-e152aa?style=for-the-badge&logo=github&labelColor=1f004e)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-e152aa?style=for-the-badge&logo=windows&labelColor=1f004e)&nbsp;
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-e152aa?style=for-the-badge&logo=microsoft-office&labelColor=1f004e)&nbsp;
-![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)&nbsp;
+![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&labelColor=1f004e)&nbsp;
 
 ### Other Knowledge:
 
