@@ -13,6 +13,7 @@ console.log(Thierry Severo);
 ```
 
 <a href="https://www.severodev.com/" target="_blank"  >Portfolio:<br><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+<br>
 <a  href="mailto:contato@severodev.com" target="_blank" ><img  src="https://img.shields.io/badge/-contato@severodev.com-0078D4?style=for-the-badge&logo=Gmail&logoColor=white"/>
     </a>
 
@@ -68,12 +69,6 @@ Always involved with technology and games, I take these resources to my professi
   <img height="145em" src="https://github-readme-stats.vercel.app/api?username=gitsevero&title_color=e152aa&icon_color=ff66c4&text_color=5ce1e6&bg_color=1f004e&border_color=whitec&show_icons=true"/>
   <img height="145em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gitsevero&layout=compact&title_color=e152aa&icon_color=ff66c4&text_color=5ce1e6&bg_color=1f004e&show_icons=true"/>
 </p>
-
-### Thierry Severo on social media:
-
-<a  href="https://www.linkedin.com/in/thierry-severo-53b032256/" target="_blank"><img src="https://img.shields.io/badge/-Thierry_Severo-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-
-
 
 
 
