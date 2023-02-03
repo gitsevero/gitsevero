@@ -36,7 +36,8 @@ console.log(Thierry Severo);
 ![GitHub](https://img.shields.io/badge/-GitHub-e152aa?style=for-the-badge&logo=github&labelColor=1f004e)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-e152aa?style=for-the-badge&logo=windows&labelColor=1f004e)&nbsp;
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-e152aa?style=for-the-badge&logo=microsoft-office&labelColor=1f004e)&nbsp;
-![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&labelColor=1f004e)&nbsp;
+![Netlify](https://img.shields.io/badge/-Netlify-e152aa?style=for-the-badge&logo=Netlify&labelColor=1f004e)&nbsp;
+
 
 ### Other Knowledge:
 
@@ -64,12 +65,12 @@ console.log(Thierry Severo);
 
 ### Thierry Severo on social media:
 
-<a href="https://www.linkedin.com/in/thierry-severo-53b032256/"><img src="https://img.shields.io/badge/-Thierry_Severo-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/thierry-severo-53b032256/">portfolio:<br><img src="https://img.shields.io/badge/-Thierry_Severo-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 
 
 
-<a href="mailto:diana_martine@outlook.com"><img src="https://img.shields.io/badge/-diana__martine@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+<a href="mailto:contato@severodev.com"><img src="https://img.shields.io/badge/-contato@severodev.com-0078D4?style=for-the-badge&logo=Gmail&logoColor=white"/>
     </a>
 
 </p>
