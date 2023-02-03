@@ -12,7 +12,7 @@ let Thierry Severo= new dev('Thierry Severo', 23, 'Front-end developer ');
 console.log(Thierry Severo);
 ```
 
-<a  href="https://www.severodev.com/">Portfolio:<br><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+<a target="_blank"  href="https://www.severodev.com/">Portfolio:<br><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 
 
 
@@ -65,12 +65,12 @@ console.log(Thierry Severo);
 
 ### Thierry Severo on social media:
 
-<a href="https://www.linkedin.com/in/thierry-severo-53b032256/"><img src="https://img.shields.io/badge/-Thierry_Severo-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a target="_blank" href="https://www.linkedin.com/in/thierry-severo-53b032256/"><img src="https://img.shields.io/badge/-Thierry_Severo-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 
 
 
-<a href="mailto:contato@severodev.com"><img src="https://img.shields.io/badge/-contato@severodev.com-0078D4?style=for-the-badge&logo=Gmail&logoColor=white"/>
+<a target="_blank" href="mailto:contato@severodev.com"><img src="https://img.shields.io/badge/-contato@severodev.com-0078D4?style=for-the-badge&logo=Gmail&logoColor=white"/>
     </a>
 
 </p>
