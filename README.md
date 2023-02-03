@@ -13,6 +13,10 @@ console.log(Thierry Severo);
 ```
 
 <a href="https://www.severodev.com/" target="_blank"  >Portfolio:<br><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+<a  href="mailto:contato@severodev.com" target="_blank" ><img  src="https://img.shields.io/badge/-contato@severodev.com-0078D4?style=for-the-badge&logo=Gmail&logoColor=white"/>
+    </a>
+
+</p>
 
 
 
@@ -72,7 +76,4 @@ Always involved with technology and games, I take these resources to my professi
 
 
 
-<a  href="mailto:contato@severodev.com" target="_blank" ><img  src="https://img.shields.io/badge/-contato@severodev.com-0078D4?style=for-the-badge&logo=Gmail&logoColor=white"/>
-    </a>
 
-</p>
