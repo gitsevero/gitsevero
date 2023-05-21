@@ -8,7 +8,7 @@ function dev(name, age, work) {
         this.work = work;
 }
 
-let Thierry Severo= new dev('Thierry Severo', 23, 'Front-end developer ');
+let Thierry Severo= new dev('Thierry Severo', 23, 'python developer ');
 console.log(Thierry Severo);
 ```
 
